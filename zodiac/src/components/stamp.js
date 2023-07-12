@@ -1,0 +1,1 @@
+// Larger zodiac icon for the zodiac component

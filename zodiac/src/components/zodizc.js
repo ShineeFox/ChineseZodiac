@@ -1,0 +1,1 @@
+// Component combining Years, Descriptor, and Stamp

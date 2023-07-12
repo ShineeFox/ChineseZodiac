@@ -1,0 +1,1 @@
+// Component for the discription paragraph of each sign
